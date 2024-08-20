@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+
+*{
+    font-family: "New Amsterdam";
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    max-width: 100%;
+}
+
+.bi{
+    color: white;
+    
+}
+
+.bi-footer{
+    font-size: 1.5rem;
+}
