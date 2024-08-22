@@ -19,3 +19,16 @@ img{
 .bi-footer{
     font-size: 1.5rem;
 }
+
+.btn-precios{
+    display: none;
+}
+
+@media (max-width: 425px){
+    table{
+        display: none;
+    }
+    .btn-precios{
+        display: inline-block;
+    }
+}
